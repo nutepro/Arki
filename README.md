@@ -71,3 +71,7 @@ npm run check
 Tests use Node's built-in test runner. Event-search tests use mocked responses; they do not establish current availability of the external service. UI-state tests do not replace a full browser accessibility audit.
 
 This repository is a standalone submission snapshot with fresh Git history. It contains the browser demo and required assets, without internal discussions, earlier prototypes or video-production files.
+
+## License
+
+Project code and documentation are available under the [MIT License](LICENSE). Bundled third-party media retains its own terms; see [CREDITS.md](CREDITS.md) and the [media notices](web/dist/media/README.md).

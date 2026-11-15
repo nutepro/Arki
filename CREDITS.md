@@ -12,4 +12,4 @@ See [the media source and license notices](web/dist/media/README.md) for every b
 
 Helsinki event listings come from [Linked Events](https://api.hel.fi/linkedevents/v1/); result cards link to the original listings. Spotify links open externally and do not represent a Spotify API or account integration.
 
-No blanket open-source license is assigned by this submission snapshot. Third-party assets remain subject to their source terms.
+Project code and documentation are licensed under the [MIT License](LICENSE). Third-party media is excluded from that grant and remains subject to the source terms recorded above.
